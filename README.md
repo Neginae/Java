@@ -1,4 +1,4 @@
-# Hangman Project
+# Hangman Game
 A simple Hangman game written in Java.
 
 ## Features
